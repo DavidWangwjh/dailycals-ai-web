@@ -6,7 +6,7 @@ export default function Hero() {
         <h1 className="text-4xl md:text-5xl font-bold mb-8">
             The Simplest AI Calories Tracker
         </h1>
-        <p className="md:w-4/5 text-xl mb-8">
+        <p className="w-4/5 text-xl mb-8">
             Discover the simplicity of daily calorie tracking powered by AI. Simply capture a photo of your meal and receive immediate, accurate nutrition insights.
         </p>
         <div className="flex flex-col sm:flex-row justify-center space-y-8">

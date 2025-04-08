@@ -1,4 +1,16 @@
 ## DailyCals AI
+
+### DailyCals AI Website
+![DailyCals AI Website](./public/dailycalsai-cover.png)
+
+### App Home Page
+![App home page](./public/app-home.png)
+
+### App Food Analysis Page
+![App food analysis page](./public/app-detail.png)
+
+<details>
+<summary>&nbsp;This is a Next.js project</summary>
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
